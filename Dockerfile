@@ -1,4 +1,4 @@
-FROM maven:3.6.0-jdk-12-alpine
+FROM maven:3.6.0-jdk-11-alpine
 
 LABEL "name"="Maven CLI Action"
 LABEL "maintainer"="Luca Feger <luca@lucafeger.de>"
